@@ -91,6 +91,16 @@ vrinda-store-dashboard/
 ```
 
 ---
+## 📁 How to Open the Dashboard File
+
+The Excel file Vrinda Store Data Analysis.xlsx is available in this repository.
+
+🔽 To view the dashboard:
+- Click on the filename above
+- Click the *“Download”* button (top-right)
+- Open with Microsoft Excel (enable macros if applicable)
+
+> Note: GitHub can’t preview large Excel files in-browser.
 
 ## 🚀 How to Use
 
